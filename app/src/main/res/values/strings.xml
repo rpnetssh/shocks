@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	
-    <string name="app_name">SocksHttp</string>
+    <string name="app_name">Socks</string>
 	
 	<string name="about">Sobre</string>
 	<string name="config">Configuração</string>
